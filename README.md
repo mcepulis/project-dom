@@ -3,7 +3,7 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# Coming soon
+# DOM intro
 
 _website design project_
 
@@ -13,14 +13,15 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/48-grupe-coming-soon/
+Site published at: https://mcepulis.github.io/project-dom/
 
-Design: [Coming soon](https://cdn.discordapp.com/attachments/850245533838868480/850246473362178048/coming-soon-wide.png)
+Design: none
 
 ## 🎯 Project features/goals
 
 -   Github pages
--   JS
+-   DOM
+-   ES6++ (JavaScript)
 
 ## 🧰 Getting Started
 
@@ -44,7 +45,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/48-grupe-coming-soon.git
+    git clone https://github.com/mcepulis/project-dom.git
     ```
 2. Install NPM packages
     ```sh
@@ -65,7 +66,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Marius: [Github](https://github.com/mcepulis)
 
 ## ⚠️ License
 
